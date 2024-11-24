@@ -18,7 +18,7 @@ I made this program to show how a heap works in real life. It helps track scores
 - It Can be expanded into more complex systems, like ranking or grading systems.
 
 ## How It Works
-  ##Add a Score:
+## Add a Score:
 
 • The user inputs a score.
 
